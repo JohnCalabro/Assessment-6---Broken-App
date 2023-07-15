@@ -9,7 +9,7 @@
 
 4. Name is undefined because developers is undefined. \
 
-5. Didd not pass err into catch()
+5. Did not pass err into catch()
 
 
 
